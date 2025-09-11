@@ -20,5 +20,10 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "lucide-react": "^0.543.0",
+    "recharts": "^3.2.0"
+  }
 }
